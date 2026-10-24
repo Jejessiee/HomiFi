@@ -2,7 +2,7 @@
 
 HomiFi (formerly *RentEase*) is a full-stack **MERN** property rental marketplace that connects admin-verified property owners directly with prospective renters. It digitises the core leasing journey: property discovery with filtering, multimedia listing management, role-based security, a booking lifecycle, and reservation cancellation with automatic inventory synchronisation.
 
-> Capstone project — Enterprise Database, Semester 7.
+> Capstone project — Skill Wallet.
 
 ---
 
