@@ -183,7 +183,7 @@ Routes marked **🔒** require a valid JWT (HTTP-only cookie or `Bearer` token).
 
 ## 👩‍💻 Author
 
-**Jessica** — Full-Stack Developer & System Analyst
+**Jessica** 
 
 ---
 
